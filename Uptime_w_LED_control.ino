@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6BPwhWWbe"
-#define BLYNK_TEMPLATE_NAME "my first template"
-#define BLYNK_AUTH_TOKEN "qzQxb81_QBAr_q2tkBGkUgaBoW5gpPgE"
+#define BLYNK_TEMPLATE_ID "zzz"
+#define BLYNK_TEMPLATE_NAME "yyy"
+#define BLYNK_AUTH_TOKEN "xxx"
 
 #include <SPI.h>
 #include <WiFiNINA.h>
